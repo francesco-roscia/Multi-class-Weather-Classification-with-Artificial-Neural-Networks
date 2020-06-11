@@ -2,7 +2,7 @@
 ## Machine Learning Course Project
 
 
-The aim of this project is to use Artificial Neural Networks (in particular, Convolutional Neural Networks - CNNs) to learn a function that detect the weather conditions in a picture (SUNNY, RAINY, SNOWY, HAZE) .
+The aim of this project is to use Artificial Neural Networks (in particular, Convolutional Neural Networks - CNNs) to learn a function that detects the weather conditions in a picture (SUNNY, RAINY, SNOWY, HAZE) .
 Having a large data set of rgb pictures classified by the weather condition, the problem has been solved in two ways:
 - I defined the architecture and trained a CNN (Frantz_net),
 - I applyed transfer learning to a pre-trained NN (InceptionResNetV2)
